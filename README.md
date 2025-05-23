@@ -39,5 +39,5 @@ All strategies use:
 ### 🔹 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/automated-pattern-backtest.git
+git clone https://github.com/ranatoheed1/automated-pattern-backtest.git
 cd automated-pattern-backtest
